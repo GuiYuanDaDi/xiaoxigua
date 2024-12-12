@@ -1,0 +1,3 @@
+[submodule "web/themes/calligraphy"]
+	path = web/themes/calligraphy
+	url = https://github.com/pacollins/calligraphy.git
